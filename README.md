@@ -1,2 +1,2 @@
-# vscode-git
-vscode git를 사용하기 위한 저장소
+# Algorithm Training
+알고리즘 공부를 위한 레퍼지토리
