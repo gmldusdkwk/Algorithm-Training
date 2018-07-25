@@ -22,13 +22,13 @@
     <td>D3</td>
     <td>
       <ul>
-      <li>
+      <li>[x]
       <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE'>1205. view</a>
       </li>
-        <li>
+        <li>[x]
         <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE'>1244. 최대 상금 </a>
         </li>
-        <li>
+        <li>[x]
             <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE'>1859. 백만 장자 프로그램 </a>
         </li>
       </ul>
