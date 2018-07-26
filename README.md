@@ -23,7 +23,7 @@
     <td>
       <ul>
       <li>[x]
-      <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE'>1205. view</a>
+      <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE'>1206. view</a>
       </li>
         <li>[x]
         <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE'>1244. 최대 상금 </a>
